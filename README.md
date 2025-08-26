@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1 style="border-bottom: none;">Andreax2410</h1>  
-  <h3 style="border-bottom: none;">Your Amateur Developer from next door</h3>  
+  <h1>Andreax2410</h1>  
+  <h3>Your Amateur Developer from next door</h3>  
 
   <h2>Programming Languages</h2>
   <p>
@@ -16,7 +16,7 @@
 
 
   <h2>Languages</h2>
-  <h3 style="border-bottom: none;">German - English</h3>
+  <h3">German - English</h3>
 </div>
 <div align="right">
   <sub>✨ Inspired by <a href="https://github.com/ruben120imokenp">ruben120imokenp</a></sub>
