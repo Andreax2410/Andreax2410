@@ -19,6 +19,9 @@
 🎯 My main goal is to learn, build cool things, and improve a little bit every day.  
 
 <hr style="border: none; height: 2px; background: #30363d; width: 80%;" />
+
+## Languages
+<h3>German - English</h3>
 </div>
 <div align="right">
   <sub>✨ Inspired by <a href="https://github.com/ruben120imokenp">ruben120imokenp</a></sub>
