@@ -3,7 +3,7 @@
   <h1 style="border-bottom: none;">Andreax2410</h1>  
   <h3 style="border-bottom: none;">Your Amateur Developer from next door</h3>  
 
-  <img src="https://via.placeholder.com/800x1/30363d/30363d" alt="" width="80%" />
+   ---
 
   ## Programming Languages  
   <p>
@@ -11,20 +11,20 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </p>
 
-  <img src="https://via.placeholder.com/800x1/30363d/30363d" alt="" width="80%" />
+  ---
 
   ## About Me  
   👋 Hey! I’m an amateur developer who enjoys experimenting with code and figuring things out as I go.  
   🔍 I’m not fully sure what direction I want to take yet — right now I’m just exploring different languages and tools.  
   🎯 My main goal is to learn, build cool things, and improve a little bit every day.  
 
-  <img src="https://via.placeholder.com/800x1/30363d/30363d" alt="" width="80%" />
+  ---
 
 
   ## Languages
   <h3 style="border-bottom: none;">German - English</h3>
 
-  <img src="https://via.placeholder.com/800x1/30363d/30363d" alt="" width="80%" />
+  ---
 </div>
 <div align="right">
   <sub>✨ Inspired by <a href="https://github.com/ruben120imokenp">ruben120imokenp</a></sub>
