@@ -21,5 +21,5 @@
 <hr style="border: none; height: 2px; background: #30363d; width: 80%;" />
 </div>
 <div align="right">
-  <sub>✨ Inspired by @ruben120imokenp</sub>
+  <sub>✨ Inspired by <a href="https://github.com/ruben120imokenp">ruben120imokenp</a></sub>
 </div>
