@@ -19,5 +19,7 @@
 🎯 My main goal is to learn, build cool things, and improve a little bit every day.  
 
 <hr style="border: none; height: 2px; background: #30363d; width: 80%;" />
-
+</div>
+<div align="right">
+  <sub>✨ Inspired by @ruben120imokenp</sub>
 </div>
