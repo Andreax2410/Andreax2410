@@ -1,7 +1,7 @@
 <div align="center">
 
-# Andreax2410  
-### Your Amateur Developer from next door  
+<h1>Andreax2410</h1>  
+<h3>Your Amateur Developer from next door</h3>  
 
 <hr style="border: none; height: 2px; background: #30363d; width: 80%;" />
 
