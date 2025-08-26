@@ -9,13 +9,13 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </p>
 
-  ## About Me  
+  <h2>About Me</h2>
   👋 Hey! I’m an amateur developer who enjoys experimenting with code and figuring things out as I go.  
   🔍 I’m not fully sure what direction I want to take yet — right now I’m just exploring different languages and tools.  
   🎯 My main goal is to learn, build cool things, and improve a little bit every day.  
 
 
-  ## Languages
+  <h2>Languages</h2>
   <h3 style="border-bottom: none;">German - English</h3>
 </div>
 <div align="right">
