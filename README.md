@@ -1,6 +1,7 @@
-Hello!
-I'm Andreax2410. your lazy ahh amateur dev. from next door.
-
+<div align="center">
+  <h1>Andreax2410</h1>
+  <h3>Your Amateur Developer from next door</h3>
+</div>
 <!--
 **Andreax2410/Andreax2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
