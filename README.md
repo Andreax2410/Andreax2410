@@ -3,7 +3,7 @@
   <h1 style="border-bottom: none;">Andreax2410</h1>  
   <h3 style="border-bottom: none;">Your Amateur Developer from next door</h3>  
 
-   ---
+   ***
 
   ## Programming Languages  
   <p>
