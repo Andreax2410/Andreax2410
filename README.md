@@ -1,4 +1,5 @@
-## Hi there 👋
+Hello!
+I'm Andreax2410. your lazy ahh amateur dev. from next door.
 
 <!--
 **Andreax2410/Andreax2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
